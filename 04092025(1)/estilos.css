@@ -1,0 +1,25 @@
+body{
+    background-color:#ffffff;
+}
+table{
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+th{
+    background-color:#b2f5ff;
+}
+
+td{
+    background-color: #e3feff;
+}
+
+h1{
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+}
